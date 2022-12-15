@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的钱包",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "transaction": "/pages/MasterPurse/Transaction",
+    "time-picker": "/pages/MasterPurse/TimePicker",
+    "previous-transaction": "/pages/MasterPurse/PreviousTransaction",
+    "purse-balance": "/pages/MasterPurse/PurseBalance"
+  }
+}

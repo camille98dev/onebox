@@ -1,0 +1,24 @@
+
+.product-footer.data-v-5e90b40e{position:fixed; z-index:99; left:0; bottom:0; width:750rpx;}
+.chargeLabel.data-v-5e90b40e{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30rpx;
+}
+.symbol.data-v-5e90b40e{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28rpx;
+}
+.chargeAmount.data-v-5e90b40e{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16rpx;
+}
+

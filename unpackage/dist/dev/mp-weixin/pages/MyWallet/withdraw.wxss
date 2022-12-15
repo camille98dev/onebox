@@ -1,0 +1,38 @@
+
+.withdrawDetailsContainer.data-v-4c43e7cb {
+	display: flex;
+	flex-direction: row;
+	padding: 25rpx;
+}
+.weChatSize.data-v-4c43e7cb {
+	height: 35rpx;
+	width: 30rpx;
+	margin: 20rpx ;
+}
+.withdrawText.data-v-4c43e7cb {
+	margin: 0rpx 70rpx 0rpx 70rpx;
+	display: flex;
+	align-items: center;
+	font-size: 30rpx;
+}
+.accountContainer.data-v-4c43e7cb {
+	flex: 3;
+}
+.accountImage.data-v-4c43e7cb{
+	color: #111111;
+	display: flex;
+	align-items: center;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32rpx;
+}
+.receivingTime.data-v-4c43e7cb{
+	color: #999999;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+
+

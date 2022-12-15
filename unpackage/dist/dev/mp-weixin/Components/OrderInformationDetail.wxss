@@ -1,0 +1,18 @@
+
+.orderDetailContainer.data-v-46585e6a{
+	border-radius: 30rpx;
+	background: #FFFFFF;
+	padding: 20rpx;
+}
+.detailContainer.data-v-46585e6a{
+	margin-bottom: 25rpx;
+}
+.numberContainer.data-v-46585e6a, .dispatchTimeContainer.data-v-46585e6a, .orderTimeContainer.data-v-46585e6a{
+	margin-bottom: 30rpx;
+	display: flex;
+	justify-content: space-between;
+}
+.dateNumber.data-v-46585e6a, .dateOrder.data-v-46585e6a{
+	margin-right: 15rpx;
+}
+

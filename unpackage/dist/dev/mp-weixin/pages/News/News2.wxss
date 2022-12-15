@@ -1,0 +1,33 @@
+
+.Container.data-v-58ad213c{
+	margin-top: 40rpx;
+	padding: 25rpx;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	align-items: center;
+}
+.news2Text.data-v-58ad213c{
+	color: #333333;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 42rpx;
+}
+.seeMoreText.data-v-58ad213c{
+	color: #999999;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 28rpx;
+}
+.pictureSize.data-v-58ad213c{
+	width: 250rpx;
+	height: 185rpx;
+	margin-right: 25rpx;
+}
+.views.data-v-58ad213c{
+	color:#999999 ;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 24rpx;
+}
+

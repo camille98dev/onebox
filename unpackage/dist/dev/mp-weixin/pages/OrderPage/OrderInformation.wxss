@@ -1,0 +1,25 @@
+
+.orderInformationContainer.data-v-5ee8856e{
+	background-color: #FFFFFF;
+	color: #333333;
+	margin: 30rpx 0rpx 50rpx 0rpx ;
+	padding: 20rpx;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28rpx;
+	border-radius: 30rpx;
+}
+.informationTitle.data-v-5ee8856e{
+	margin: 25rpx 0rpx 25rpx 0rpx;
+}
+.orderNoContainer.data-v-5ee8856e, .dispatchContainer.data-v-5ee8856e{
+	display: flex;
+	justify-content: space-between;
+	margin: 25rpx 0rpx 25rpx 0rpx;
+}
+.date.data-v-5ee8856e{
+	margin-right: 25rpx;
+}
+
+

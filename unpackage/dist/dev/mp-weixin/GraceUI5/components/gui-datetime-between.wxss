@@ -1,0 +1,6 @@
+
+.gui-dateBT-shade.data-v-d6245a2e{width:750rpx; position:fixed; z-index:99; left:0; top:0; bottom:0; flex:1; overflow:hidden; background-color:rgba(0,0,0,0.5);}
+.graceDateTime-header.data-v-d6245a2e{padding:25rpx;}
+.graceDateTime-header-btn.data-v-d6245a2e{width:200rpx; line-height:38rpx; height:38rpx; font-size:28rpx;}
+.graceDateTimeBT-text.data-v-d6245a2e{padding:15rpx; background-color:#FFFFFF; line-height:80rpx; height:80rpx; color:rgba(69, 90, 100, 0.6); font-size:26rpx;}
+

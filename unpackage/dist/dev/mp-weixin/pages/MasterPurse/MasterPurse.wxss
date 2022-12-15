@@ -1,0 +1,15 @@
+
+.gBody.data-v-72148e82{
+	display: flex;
+	justify-content: center;
+	position: relative;
+}
+.imageStyle.data-v-72148e82{
+	width: 95%;
+	margin: 15rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+

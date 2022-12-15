@@ -1,0 +1,33 @@
+
+.policyContainer.data-v-4492308c{
+	margin-top: 40rpx;
+	padding: 25rpx;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	align-items: center;
+}
+.policyText.data-v-4492308c{
+	color: #333333;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 42rpx;
+}
+.seeMoreText.data-v-4492308c{
+	color: #999999;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 28rpx;
+}
+.pictureSize.data-v-4492308c{
+	width: 250rpx;
+	height: 185rpx;
+	margin-right: 25rpx;
+}
+.views.data-v-4492308c{
+	color:#999999 ;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 24rpx;
+}
+

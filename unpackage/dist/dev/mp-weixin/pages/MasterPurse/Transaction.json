@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation"
+  },
+  "component": true
+}

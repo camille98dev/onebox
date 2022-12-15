@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-search": "/GraceUI5/components/gui-search",
+    "navigation": "/pages/MasterSide/Navigation",
+    "order1": "/pages/MasterSide/Order1"
+  }
+}

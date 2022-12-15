@@ -1,0 +1,15 @@
+
+.takeOrdersContainer.data-v-3563b3c6{
+	background-color: #F4F4F4;
+	height: 100vh;
+}
+.productOrderContainer.data-v-3563b3c6, .productOrderContainer2.data-v-3563b3c6{
+	background: #FFFFFF;
+	margin: 25rpx;
+	border-radius: 20rpx;
+	padding: 25rpx;
+}
+.searchBoxContainer.data-v-3563b3c6{
+background: #FFFFFF;
+}
+

@@ -1,0 +1,11 @@
+
+.myWalleteMotherContainer.data-v-b4f38fb4{
+	background: #F4F4F4;
+}
+.withdrawData.data-v-b4f38fb4{
+	padding-bottom: 50rpx;
+}
+.withdrawalInformation.data-v-b4f38fb4{
+	background-color: #FFFFFF;
+}
+

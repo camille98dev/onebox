@@ -1,0 +1,36 @@
+
+.transactionMonitoringContainer.data-v-6cfb270c{
+	padding: 25rpx;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #F0F0F0;
+}
+.labelContainer.data-v-6cfb270c{
+	margin-bottom: 5rpx;
+}
+.transactionLabel.data-v-6cfb270c{
+	color: #111111;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30rpx;
+}
+.transactionDateContainer.data-v-6cfb270c{
+	color: #B5B5B5;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+.transactionAmountContainer.data-v-6cfb270c{
+	color: #111111;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36rpx;
+}
+.transactionDate.data-v-6cfb270c{
+	margin-right: 15rpx;
+}
+

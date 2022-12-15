@@ -1,0 +1,9 @@
+
+.OrderPageContainer.data-v-7964347c{
+	background: #F4F4F4;
+	height: 100vh;
+}
+.productDetailsContainer.data-v-7964347c{
+	border-top: 1rpx solid #EAEAEA;
+}
+

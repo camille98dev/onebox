@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "壹盒饰家",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page"
+  }
+}

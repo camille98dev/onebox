@@ -1,0 +1,13 @@
+
+.orderStatusContainer.data-v-702811ba{
+	background: #FFFFFF;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	padding: 35rpx 180rpx;
+	position: fixed;
+	bottom: 0;
+}
+
+

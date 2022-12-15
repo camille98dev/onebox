@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "product-details": "/Components/ProductDetails",
+    "servicefee-details": "/Components/ServicefeeDetails",
+    "order-information-detail": "/Components/OrderInformationDetail",
+    "complete-detail": "/pages/ProductStatus/CompleteDetail",
+    "complete-detail2": "/pages/ProductStatus/CompleteDetail2",
+    "progress-button": "/pages/ProductStatus/ProgressButton",
+    "to-review": "/pages/ProductStatus/ToReview"
+  }
+}

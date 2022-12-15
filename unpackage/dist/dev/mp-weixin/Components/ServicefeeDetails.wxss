@@ -1,0 +1,71 @@
+
+.serviceFeeDetailsContainer.data-v-0a1f2026{
+	background: #FFFFFF;
+	padding:25rpx;
+	border-radius: 30rpx;
+}
+.servicetitle.data-v-0a1f2026{
+	Font-family: Inter;
+	font-weight: 400;
+	Font-size: 28rpx;
+	color:#333333;
+}
+.fileTitleContainer.data-v-0a1f2026{
+	margin-bottom:30rpx;
+}
+.allowanceLabel.data-v-0a1f2026, .policyLabel.data-v-0a1f2026, .totalLabel.data-v-0a1f2026{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+	color: #333333;
+}
+.gradeAllowanceContainer.data-v-0a1f2026, .policySubsidyContainer.data-v-0a1f2026, .baseWageContainer.data-v-0a1f2026{
+	margin-bottom:30rpx;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30rpx;
+	color: #333333;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.totalAmountContainer.data-v-0a1f2026{
+	color: #333333;
+	margin-top:35rpx;
+	margin-left:50rpx;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30rpx;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.totalAmount.data-v-0a1f2026{
+	color: #6869AC;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16rpx;
+	margin-right:60rpx;
+}
+.wageAmount.data-v-0a1f2026{
+	color:#333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16rpx;
+	margin-right:60rpx;
+}
+.allowanceAmount.data-v-0a1f2026, .policyAmount.data-v-0a1f2026{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16rpx;
+	margin-right: 30rpx;
+}
+

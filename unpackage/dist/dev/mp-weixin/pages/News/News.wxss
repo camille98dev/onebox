@@ -1,0 +1,36 @@
+
+.imageSize.data-v-5d61b634 {
+	width: 100%;
+	height: 900rpx;
+}
+.faqContainer.data-v-5d61b634 {
+	padding: 25rpx;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	align-items: center;
+}
+.FAQText.data-v-5d61b634 {
+	color: #333333;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 42rpx;
+}
+.seeMoreText.data-v-5d61b634 {
+	color: #999999;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 28rpx;
+}
+.newsContainer.data-v-5d61b634 {
+	background-color: #F0F0F0;
+}
+.companyPolicyContainer.data-v-5d61b634,
+.news2Container.data-v-5d61b634 {
+	background-color: #FFFFFF;
+}
+.faqContainer.data-v-5d61b634,
+.problem1Container.data-v-5d61b634 {
+	background-color: #FFFFFF;
+}
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "接单",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-search": "/GraceUI5/components/gui-search",
+    "search": "/Components/Search",
+    "product-order": "/pages/TakeOrders/ProductOrder"
+  }
+}

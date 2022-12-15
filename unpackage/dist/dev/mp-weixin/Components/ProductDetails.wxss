@@ -1,0 +1,90 @@
+
+.orderContainer.data-v-d19a4a64{
+	background: #FFFFFF;
+	border-radius: 20rpx;
+	padding: 20rpx;
+}
+.orderAndStatusContainer.data-v-d19a4a64{
+	display: flex;
+	justify-content: space-between;
+	padding:50rpx 25rpx 50rpx 25rpx;
+	border-bottom: 1px solid #EAEAEA;
+}
+.orderStatus.data-v-d19a4a64{
+	color: #6869AC;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30rpx;
+}
+.imageSize.data-v-d19a4a64{
+	width: 200rpx;
+	height: 160rpx;
+}
+.productContainer.data-v-d19a4a64{
+	display: flex;
+}
+.productInformation.data-v-d19a4a64{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-left: 10rpx;
+}
+.description.data-v-d19a4a64{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+.numberofBoxes.data-v-d19a4a64{
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 30rpx;
+}
+.boxes.data-v-d19a4a64{
+	color: #666666;
+	background: #F7F8FA;
+	padding: 10rpx 30rpx 10rpx 30rpx;
+	border-radius: 40rpx;
+	font-family: 'Inter';
+	font-weight: 400;
+	font-size: 22rpx;
+}
+.additional.data-v-d19a4a64{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24rpx;
+}
+.moreDetailsContainer.data-v-d19a4a64{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+	color: #333333;
+	border-top: 1rpx solid #F4F4F4;
+	margin-top: 40rpx;
+	padding-top: 25rpx;
+}
+.timeServiceContainer.data-v-d19a4a64{
+	display: flex;
+	justify-content: space-between;
+}
+.customeradress.data-v-d19a4a64{
+	display: flex;
+	align-items: center;
+}
+.serviceContainer.data-v-d19a4a64, .timeLimitContainer.data-v-d19a4a64, .customeradress.data-v-d19a4a64{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 40rpx;
+}
+.gui-icons.data-v-d19a4a64{
+	color: gray;
+	font-weight: 500;
+}
+

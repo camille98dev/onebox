@@ -1,0 +1,18 @@
+
+.orderStatusContainer.data-v-169c2c31{
+	background: #FFFFFF;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	padding: 35rpx 285rpx;
+	position: fixed;
+	bottom: 0;
+}
+.orderStatus.data-v-169c2c31{
+	Font-family: Inter;
+	Font-weight:400;
+	Font-size: 28rpx;
+}
+
+

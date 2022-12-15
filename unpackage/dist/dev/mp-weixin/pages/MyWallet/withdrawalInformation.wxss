@@ -1,0 +1,38 @@
+
+.gui-form-label.data-v-5af037c6{
+	color: #111111;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size:90rpx;
+}
+.gui-h6.data-v-5af037c6{
+	color: #111111;
+	ont-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30rpx;
+}
+.withdrawalInformation.data-v-5af037c6{
+	padding: 45rpx 0rpx 45rpx 0rpx;
+}
+.maintainingBalance.data-v-5af037c6{
+	margin-top: 80rpx;
+}
+.maintainingText.data-v-5af037c6{
+	color: #B5B5B5;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26rpx;
+}
+._a.data-v-5af037c6{
+	color: #6869AC;
+	text-decoration: none;
+}
+.gui-form-input.data-v-5af037c6{
+	font-size: 75rpx;
+	font-weight: 500;
+	align-items: center;
+}
+

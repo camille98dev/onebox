@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gui-datetime-bt-base": "/GraceUI5/components/gui-datetime-bt-base"
+  },
+  "component": true
+}

@@ -1,0 +1,12 @@
+
+.masterSideMotherContainer.data-v-287ad9a6{
+background: #F5F5F5;
+}
+.searchAndNavigationContainer.data-v-287ad9a6{
+	background: #FFFFFF;
+	position: relative;
+}
+.OrderContainer.data-v-287ad9a6{
+	margin-top: 25rpx;
+}
+

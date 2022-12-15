@@ -1,0 +1,9 @@
+
+.productStatusContainer.data-v-e9bd8b6c {
+  background: #f4f4f4;
+  height: 100vh;
+}
+.serviceFeeDetailsContainer.data-v-e9bd8b6c {
+  margin: 15rpx 0rpx 15rpx 0rpx;
+}
+

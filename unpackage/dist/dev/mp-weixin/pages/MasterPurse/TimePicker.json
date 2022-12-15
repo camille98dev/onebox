@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gui-datetime-between": "/GraceUI5/components/gui-datetime-between"
+  },
+  "component": true
+}

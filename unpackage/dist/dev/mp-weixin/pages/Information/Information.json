@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "消息",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation"
+  }
+}

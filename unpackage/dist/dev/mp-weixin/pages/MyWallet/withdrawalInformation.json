@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gui-number-keyboard": "/GraceUI5/components/gui-number-keyboard"
+  },
+  "component": true
+}

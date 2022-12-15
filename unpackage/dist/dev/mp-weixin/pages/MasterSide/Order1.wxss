@@ -1,0 +1,182 @@
+
+.orderContainer.data-v-8c912220{
+	background: #FFFFFF;
+	border-radius: 15rpx;
+	margin: 15rpx;
+}
+.orderAndStatusContainer.data-v-8c912220{
+	display: flex;
+	justify-content: space-between;
+	padding:25rpx;
+	border-bottom: 1px solid #EAEAEA;
+}
+.orderNumberContainer.data-v-8c912220{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30rpx;
+}
+.orderStatus.data-v-8c912220{
+	color: #6869AC;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30rpx;
+}
+.imageSize.data-v-8c912220{
+	width: 200rpx;
+	height: 160rpx;
+	margin-left: 25rpx;
+}
+.productContainer.data-v-8c912220{
+	display: flex;
+}
+.productInformation.data-v-8c912220{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.description.data-v-8c912220{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+.numberofBoxes.data-v-8c912220{
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 40rpx;
+}
+.boxes.data-v-8c912220{
+	color: #666666;
+	background: #F7F8FA;
+	padding: 10rpx 30rpx 10rpx 30rpx;
+	border-radius: 40rpx;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22rpx;
+}
+.additional.data-v-8c912220{
+	color: #999999;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24rpx;
+}
+.pinSize.data-v-8c912220{
+	width: 20px;
+	height: 25rpx;
+}
+.moreDetailsContainer.data-v-8c912220{
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26rpx;
+	display: flex;
+	flex-direction: column;
+	padding: 25rpx;
+}
+.timeServiceContainer.data-v-8c912220{
+	display: flex;
+	justify-content: space-between;
+}
+.customeradress.data-v-8c912220{
+	display: flex;
+	align-items: center;
+}
+.baseWage.data-v-8c912220, .gradeAllowance.data-v-8c912220, .policySubsidy.data-v-8c912220{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30rpx;
+}
+.totalContainer.data-v-8c912220{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.totalText.data-v-8c912220{
+	color: #333333;
+	ont-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 35rpx;
+	margin-left: 30rpx;
+}
+.totalAmount.data-v-8c912220{
+	color: #6869AC;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16rpx;
+	margin-right: 40rpx;
+}
+.optionsButtonContainer.data-v-8c912220{
+	border-top: 1px solid #EAEAEA;
+	display: flex;
+	justify-content: flex-end;
+	padding: 15rpx;
+}
+.contact.data-v-8c912220{
+	color: #6869AC;
+	font-size: 28rpx;
+	width: 180rpx;
+	height: 60rpx;
+	margin-right: 25rpx;
+	border-radius: 50rpx;
+	border: 1px solid #6869AC;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.service.data-v-8c912220{
+background: #6869AC;
+color: #FFFFFF;
+font-size: 28rpx;
+width: 180rpx;
+height: 60rpx;
+border-radius: 50rpx;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.productStatusContainer.data-v-8c912220{
+	color: #333333;
+	display: flex;
+	justify-content: center;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+}
+.reviews.data-v-8c912220{
+	background: #6869AC;
+	color: #FFFFFF;
+	font-size: 28rpx;
+	width: 180rpx;
+	height: 60rpx;
+	border-radius: 50rpx;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15rpx 50rpx 15rpx 50rpx;
+}
+.statusUpdate.data-v-8c912220{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28rpx;
+	display: flex;
+}
+.productStatusContainer.data-v-8c912220{
+	padding: 25rpx;
+	border-top: 1px solid #EAEAEA;
+}
+.reviewContainer.data-v-8c912220{
+	display: flex;
+	justify-content: flex-end;
+	border-top: 1px solid #EAEAEA;
+}
+

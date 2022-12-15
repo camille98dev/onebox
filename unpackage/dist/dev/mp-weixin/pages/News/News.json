@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "资讯",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-search": "/GraceUI5/components/gui-search",
+    "problem1": "/pages/News/Problem1",
+    "company-policy": "/pages/News/CompanyPolicy",
+    "news2": "/pages/News/News2"
+  }
+}

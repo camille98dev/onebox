@@ -1,0 +1,27 @@
+
+.fix-sign.data-v-ce434bb4 {
+    position: absolute;
+    top: -80rpx;
+}
+.gui-form-label.data-v-ce434bb4 {
+    color: #666666;
+    font-size: 28rpx;
+}
+.footer-action-right-btn-right.data-v-ce434bb4 {
+	background-color: #6869ac;
+	border-radius: 39rpx;
+    height: 78rpx;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+}
+.footer.data-v-ce434bb4 {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding: 0rpx 30rpx 50rpx;
+}
+image.data-v-ce434bb4 {
+	image-rendering: -webkit-optimize-contrast;
+}
+

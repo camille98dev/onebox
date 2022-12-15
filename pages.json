@@ -1,0 +1,319 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/LandingPage/LandingPage",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+				 "navigationStyle" : "custom"
+		    }  
+		},
+		{
+		    "path" : "pages/TakeOrders/TakeOrders",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "接单",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}  
+		,{
+		    "path" : "pages/News/News",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "资讯",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/Information/Information",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "消息",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/Mine/Mine",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+		
+		,{
+		    "path" : "pages/InformationDetails/InformationDetails",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "资讯详情",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+		
+		
+		,{
+		    "path" : "pages/MasterSide/MasterSide",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的订单",
+		        "enablePullDownRefresh": true,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/MasterSideProf1/MasterSideProf1",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人资料",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/MasterSideProf2/MasterSideProf2",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个人资料",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		,{
+		    "path" : "pages/MyWallet/MyWallet",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "提现 ",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/MasterPurse/MasterPurse",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的钱包",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/OrderPage/OrderPage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "接单页面",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/CompleteService/CompleteService",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "完成服务",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/ProductStatus/ProductStatus",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/OneBoxDecoration/OneBoxDecoration",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "壹盒饰家",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+		,{
+		    "path" : "pages/Details/Details",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "壹盒饰家",	
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/MasterSideOrder1/MasterSideOrder1",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "sample",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+	
+        ,{
+            "path" : "pages/UserAgreement/UserAgreement",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "用户协议",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/ArticleList/ArticleList",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/AboutUs/AboutUs",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+		,{
+		    "path" : "pages/LevelRule/LevelRule",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/feedback/feedback",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "留言反馈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/bemaster/bemaster",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "成为师傅",
+                "enablePullDownRefresh": false
+            }
+        },
+		{
+		    "path" : "pages/bemaster/sign",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "签订合同",
+		        "enablePullDownRefresh": false
+		    }
+		}
+        ,{
+            "path" : "pages/ArticleListTwo/ArticleListTwo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "GraceUI",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+			"custom": true,
+			"color": "#B0B0B0",
+			"selectedColor": "#6869AC",
+			"borderStyle": "black",
+			"backgroundColor": "#FFFFFF",
+			"iconWidth": "34rpx",
+			"fontSize": "20rpx",
+			
+			"list": [
+				{
+					"pagePath": "pages/MasterSide/MasterSide",
+					"iconPath": "static/TaBarImage/ordersBW.png",
+					"selectedIconPath": "static/TaBarImage/orders.png",
+					"text": "订单"
+				},
+				{
+					"pagePath": "pages/News/News",
+					"iconPath": "static/TaBarImage/newsBW.png",
+					"selectedIconPath": "static/TaBarImage/news.png",
+					"text": "资讯"
+				},
+				{
+					"pagePath": "pages/Information/Information",
+					"iconPath": "static/TaBarImage/informationBW.png",
+					"selectedIconPath": "static/TaBarImage/information.png",
+					"text": "消息"
+				},
+				{
+					"pagePath": "pages/Mine/Mine",
+					"iconPath": "static/TaBarImage/mineBW.png",
+					"selectedIconPath": "static/TaBarImage/mine.png",
+					"text": "我的"
+				}
+			]
+		},
+	"easycom": {
+		"custom": {
+			"autoscan": true,
+			"gui-(.*)": "@/GraceUI5/components/gui-$1.vue",
+			"lb-picker": "@/Components/lb-picker/index.vue",
+			"region-picker": "@/Components/region-picker/region-picker.vue",
+			"c-(.*)": "@/Components/c-$1.vue"
+		}
+	},
+	"condition" : {//Mode configuration, effective only during development period.
+		"current": 0,//Current active mode (index entry of list)
+		"list": [
+			{
+				"name": "mine1",//mode name
+				"path": "pages/Mine/Mine",//startup page, can not be empty
+				"query": ""//The startup parameters are obtained in the onLoad function of the page.
+			},
+			{
+				"name":"news",
+				"path":"pages/News/News"
+			},{
+				"name":"接单",
+				"path":"pages/TakeOrders/TakeOrders"
+			}
+		]
+	}
+}

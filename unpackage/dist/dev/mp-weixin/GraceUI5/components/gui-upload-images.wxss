@@ -1,0 +1,11 @@
+
+.gui-add-list-btn-text.data-v-f511e2be{font-size:26rpx; line-height:36rpx; text-align:center;}
+.gui-add-list-btn-icon.data-v-f511e2be{font-size:80rpx; height:80rpx; line-height:80rpx; margin-bottom:20rpx;}
+.gui-add-list-items.data-v-f511e2be{width:212rpx; height:212rpx; overflow:hidden; margin:9rpx; background-color:#F8F8F8; font-size:0; position:relative;}
+.gui-add-list-remove.data-v-f511e2be{width:60rpx; height:60rpx; line-height:60rpx; text-align:center; font-size:44rpx; position:absolute; z-index:5; right:0; top:0;}
+.gui-add-list-img.data-v-f511e2be{width:212rpx;}
+.gui-upload-progress.data-v-f511e2be{position:absolute; z-index:2; left:0; bottom:10rpx; width:180rpx; padding:0 16rpx;}
+.gui-add-list-reup.data-v-f511e2be{position:absolute; z-index:3; left:0; top:0rpx; width:212rpx; height:212rpx; background-color:rgba(0,0,0,0.3);}
+.gui-add-list-reup-icon.data-v-f511e2be{text-align:center; font-size:68rpx; line-height:100rpx;}
+.gui-add-list-reup-text.data-v-f511e2be{text-align:center; font-size:20rpx; line-height:30rpx;}
+

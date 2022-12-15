@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-star": "/GraceUI5/components/gui-star"
+  },
+  "component": true
+}

@@ -1,0 +1,196 @@
+
+.orderContainer.data-v-a99231ce{
+		background: #FFFFFF;
+		border-radius: 20rpx;
+}
+.orderAndStatusContainer.data-v-a99231ce{
+		display: flex;
+		justify-content: space-between;
+		padding:15rpx 25rpx 15rpx 25rpx;
+}
+.orderNumberContainer.data-v-a99231ce{
+		color: #333333;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 28rpx;
+		border-bottom: 1px solid #EAEAEA;
+		padding-bottom: 25rpx;
+}
+.orderStatus.data-v-a99231ce{
+		color: #6869AC;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 30rpx;
+}
+.imageSize.data-v-a99231ce{
+		width: 200rpx;
+		height: 160rpx;
+}
+.productContainer.data-v-a99231ce{
+		display: flex;
+}
+.productInformation.data-v-a99231ce{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+}
+.description.data-v-a99231ce{
+		color: #333333;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 28rpx;
+}
+.numberofBoxes.data-v-a99231ce{
+		display: flex;
+		justify-content: space-between;
+}
+.boxes.data-v-a99231ce{
+		color: #666666;
+		background: #F7F8FA;
+		padding: 10rpx 30rpx 10rpx 30rpx;
+		border-radius: 40rpx;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 22rpx;
+}
+.additional.data-v-a99231ce{
+		color: #333333;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 24rpx;
+}
+.moreDetailsContainer.data-v-a99231ce{
+		display: flex;
+		flex-direction: column;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 28rpx;
+		color: #333333;
+		padding-top: 25rpx;
+}
+.timeServiceContainer.data-v-a99231ce{
+		display: flex;
+		justify-content: space-between;
+}
+.customeradress.data-v-a99231ce{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+}
+.timeLimitContainer.data-v-a99231ce, .customeradress.data-v-a99231ce{
+		display: flex;
+		margin-bottom: 20rpx;
+}
+.serviceTimeText.data-v-a99231ce, .limitText.data-v-a99231ce{
+		margin-right: 20rpx;
+}
+.serviceContainer.data-v-a99231ce{
+		display: flex;
+		justify-content: space-between;
+}
+.gui-icons.data-v-a99231ce{
+		color: gray;
+		font-weight: 500;
+}
+.pinSize.data-v-a99231ce{
+		width: 25rpx;
+		height: 25rpx;
+}
+.serviceChargeContainer.data-v-a99231ce{
+		margin-top: 20rpx;
+		display: flex;
+		justify-content: space-between;
+}
+.serveText.data-v-a99231ce{
+		color: #333333;
+		font-family: 'Inter';
+		font-style: normal;
+		font-size: 32rpx;
+		font-weight: 600;
+}
+.serviceCurrency.data-v-a99231ce{
+		color: #6869AC;
+		font-family: 'Inter';
+		font-style: normal;
+		font-size: 28rpx;
+}
+.serviceAmount.data-v-a99231ce{
+		color: #6869AC;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 600;
+		font-size: 32rpx;
+}
+.centavo.data-v-a99231ce{
+		color: #6869AC;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 24rpx;
+}
+.optionsContainer.data-v-a99231ce{
+		padding-top: 25rpx;
+		margin-top: 50rpx;
+		display: flex;
+		justify-content: space-around;
+		border-top: 1rpx solid #F4F4F4;
+}
+.reject.data-v-a99231ce{
+		color: #999999;
+		font-family: 'Inter';
+		font-style: normal;
+		font-size: 32rpx;
+}
+.order.data-v-a99231ce{
+		color: #333333;
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 600;
+		font-size: 32rpx;
+}
+..demo-close.data-v-a99231ce {
+	font-size: 28rpx;
+	position: absolute;
+	z-index: 1000;
+	right: 42rpx;
+	top: 50rpx;
+}
+.demo-lr.data-v-a99231ce {
+	flex: 1;
+	padding: 40rpx;
+	border-top-left-radius: 30rpx;
+	border-top-right-radius: 30rpx;
+	position: relative;
+}
+.title.data-v-a99231ce {
+	font-weight: 600;
+	font-size: 32rpx;
+}
+.childrenContainer.data-v-a99231ce {
+}
+.rejectTitleContainer.data-v-a99231ce{
+	padding: 20rpx 0rpx 40rpx 20rpx;
+}
+.reasonTitle.data-v-a99231ce{
+	color: #B5B5B5;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32rpx;
+}
+.reasonContainer.data-v-a99231ce{
+	color: #111111;
+	margin-bottom: 40rpx;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32rpx;
+}
+	
+

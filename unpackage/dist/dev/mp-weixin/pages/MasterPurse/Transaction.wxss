@@ -1,0 +1,20 @@
+
+.mt60 {
+	margin-top: 50rpx;
+}
+.demo-nav {
+	width: 750rpx;
+	padding: 20rpx 30rpx;
+	box-sizing: border-box;
+}
+.demo-nav2 {
+	width: 750rpx;
+	padding: 15rpx 30rpx;
+	box-sizing: border-box;
+	padding-bottom: 0;
+}
+.gui-margin-top {
+	border-bottom: 1rpx solid #F0F0F0;
+	padding-bottom: 20rpx;
+}
+

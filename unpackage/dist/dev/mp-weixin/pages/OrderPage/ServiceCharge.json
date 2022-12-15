@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gui-iphone-bottom": "/GraceUI5/components/gui-iphone-bottom"
+  },
+  "component": true
+}

@@ -1,0 +1,4 @@
+
+.gui-text-area{font-size:26rpx; color:#2B2E3D; height:150rpx; padding:20rpx;}
+.demo-sub-btn{padding:10rpx 25rpx; line-height:30rpx; font-size:24rpx; border-radius:6rpx;}
+

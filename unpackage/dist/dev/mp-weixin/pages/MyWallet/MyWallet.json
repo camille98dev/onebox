@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "提现 ",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "withdraw": "/pages/MyWallet/withdraw",
+    "withdrawal-information": "/pages/MyWallet/withdrawalInformation"
+  }
+}

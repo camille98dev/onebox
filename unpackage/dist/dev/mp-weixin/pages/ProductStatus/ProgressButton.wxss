@@ -1,0 +1,35 @@
+
+.optionsButtonContainer.data-v-5995d286{
+	background: #FFFFFF;
+	display: flex;
+	justify-content: end;
+	padding: 25rpx 300rpx 25rpx 0rpx;
+	position: fixed;
+	bottom: 0;
+}
+.contact.data-v-5995d286{
+	color:#6869AC ;
+	width: 220rpx;
+	border-radius: 50rpx;
+	height: 70rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1rpx solid #6869AC;
+	font-size: 28rpx;
+	margin: 0rpx 25rpx 0rpx 250rpx;
+	font-weight: 400;
+}
+.service.data-v-5995d286{
+	color: #FFFFFF;
+	background: #6869AC;
+	width: 220rpx;
+	border-radius: 50rpx;
+	height: 70rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 28rpx;
+	font-weight: 400;
+}
+

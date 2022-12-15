@@ -1,0 +1,48 @@
+
+.profileContainer.data-v-cda1fbf4{
+	background: #F7F8FA;
+	height: 100vh;
+}
+.profileInformationContainer.data-v-cda1fbf4{
+	background: #FFFFFF;
+	padding: 0rpx 30rpx 0rpx 30rpx ;
+	border-top: 1rpx solid #F4F4F4;
+}
+.nameContainer.data-v-cda1fbf4, .phoneNumberContainer.data-v-cda1fbf4, .genderContainer.data-v-cda1fbf4{
+	display: flex;
+	margin: 40rpx 0rpx 0rpx 0rpx;
+	justify-content: space-between;
+	border-bottom: 1rpx solid #F4F4F4;
+	padding-bottom: 40rpx;
+}
+.areaContainer.data-v-cda1fbf4{
+	display: flex;
+	margin: 40rpx 0rpx 0rpx 0rpx;
+	justify-content: space-between;
+	padding-bottom: 40rpx;
+}
+.nameLabel.data-v-cda1fbf4, .numberLabel.data-v-cda1fbf4, .genderLabel.data-v-cda1fbf4, .areaLabel.data-v-cda1fbf4{
+	color: #666666;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+.yourName.data-v-cda1fbf4, .yourNumber.data-v-cda1fbf4, .yourGender.data-v-cda1fbf4, .yourArea.data-v-cda1fbf4{
+	color: #333333;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+.administratorContact.data-v-cda1fbf4{
+	margin: 30rpx;
+}
+.bottomCaption.data-v-cda1fbf4{
+color: #999999;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26rpx;
+}
+

@@ -1,0 +1,24 @@
+
+.ucenter-line.data-v-5ad21830{height:100rpx; color:white; position: relative;}
+.balanceAmount.data-v-5ad21830{
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 70rpx;
+}
+.walletBalanceText.data-v-5ad21830{
+	color: #FFFFFF;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+.withDrawalText.data-v-5ad21830{
+	color: #FFFFFF;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 28rpx;
+}
+	
+

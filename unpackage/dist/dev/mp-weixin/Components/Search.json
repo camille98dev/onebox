@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "gui-search": "/GraceUI5/components/gui-search"
+  },
+  "component": true
+}

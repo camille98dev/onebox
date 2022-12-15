@@ -1,0 +1,19 @@
+
+.pictureSize.data-v-52c1ce85 {
+	width: 350rpx;
+	height: 185rpx;
+	margin-right: 25rpx;
+}
+.problem1Text.data-v-52c1ce85 {
+	color: #333333;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 32rpx;
+}
+.views.data-v-52c1ce85 {
+	color: #999999;
+	Font-family: Inter;
+	Font-style: Regular;
+	Font-size: 24rpx;
+}
+

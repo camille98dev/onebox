@@ -1,0 +1,73 @@
+{
+  "pages": [
+    "pages/TakeOrders/TakeOrders",
+    "pages/News/News",
+    "pages/Information/Information",
+    "pages/Mine/Mine",
+    "pages/InformationDetails/InformationDetails",
+    "pages/LandingPage/LandingPage",
+    "pages/MasterSide/MasterSide",
+    "pages/MasterSideProf1/MasterSideProf1",
+    "pages/MasterSideProf2/MasterSideProf2",
+    "pages/MyWallet/MyWallet",
+    "pages/MasterPurse/MasterPurse",
+    "pages/OrderPage/OrderPage",
+    "pages/CompleteService/CompleteService",
+    "pages/ProductStatus/ProductStatus",
+    "pages/OneBoxDecoration/OneBoxDecoration",
+    "pages/Details/Details",
+    "pages/MasterSideOrder1/MasterSideOrder1",
+    "pages/UserAgreement/UserAgreement"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "GraceUI",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#B0B0B0",
+    "selectedColor": "#6869AC",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "iconWidth": "34rpx",
+    "fontSize": "20rpx",
+    "list": [
+      {
+        "pagePath": "pages/TakeOrders/TakeOrders",
+        "iconPath": "static/TaBarImage/ordersBW.png",
+        "selectedIconPath": "static/TaBarImage/orders.png",
+        "text": "接单"
+      },
+      {
+        "pagePath": "pages/News/News",
+        "iconPath": "static/TaBarImage/newsBW.png",
+        "selectedIconPath": "static/TaBarImage/news.png",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/Information/Information",
+        "iconPath": "static/TaBarImage/informationBW.png",
+        "selectedIconPath": "static/TaBarImage/information.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/Mine/Mine",
+        "iconPath": "static/TaBarImage/mineBW.png",
+        "selectedIconPath": "static/TaBarImage/mine.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "requiredBackgroundModes": [
+    "audio",
+    "location"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {}
+}

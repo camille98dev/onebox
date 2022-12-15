@@ -1,0 +1,1 @@
+<view class="searchBoxContainer"><view class="gui-margin-top search-warp gui-border-box"><gui-search style="background-color:#F7F8FA;" bind:inputting="__e" bind:confirm="__e" vue-id="016ad6c3-1" data-event-opts="{{[['^inputting',[['inputting']]],['^confirm',[['confirm']]]]}}" bind:__l="__l"></gui-search></view></view>

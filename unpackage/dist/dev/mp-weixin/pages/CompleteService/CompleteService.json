@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "完成服务",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-upload-images": "/GraceUI5/components/gui-upload-images"
+  }
+}
